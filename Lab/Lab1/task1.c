@@ -5,8 +5,8 @@ int main(void)
 {
 int a = 10;
 float b = 3.14;
-char c ='A';
+char v ='A';
 printf("a = %d \n", a);
 printf("b = %g \n", b);
-printf("c = %c \n", c);
+printf("c = %c \n", v);
 }
